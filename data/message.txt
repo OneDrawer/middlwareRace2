@@ -1,0 +1,15 @@
+|mysql-bin.00001723967642|1496736193000|middleware3|student|I|id:1:1|NULL|301636|first_name:2:0|NULL|徐|last_name:2:0|NULL|八二|sex:2:0|NULL|女|score:1:0|NULL|56|
+|mysql-bin.00001723967643|1496736193000|middleware3|student|I|id:1:1|NULL|301637|first_name:2:0|NULL|孙|last_name:2:0|NULL|莉八|sex:2:0|NULL|男|score:1:0|NULL|94|
+|mysql-bin.00001723967644|1496736193000|middleware3|student|I|id:1:1|NULL|301638|first_name:2:0|NULL|邹|last_name:2:0|NULL|景|sex:2:0|NULL|女|score:1:0|NULL|67|
+|mysql-bin.00001723967645|1496736193000|middleware3|student|I|id:1:1|NULL|301639|first_name:2:0|NULL|孙|last_name:2:0|NULL|丁|sex:2:0|NULL|女|score:1:0|NULL|45|
+|mysql-bin.00001723967646|1496736193000|middleware3|student|I|id:1:1|NULL|301640|first_name:2:0|NULL|周|last_name:2:0|NULL|明天|sex:2:0|NULL|女|score:1:0|NULL|68|
+|mysql-bin.00001723967647|1496736193000|middleware3|student|I|id:1:1|NULL|301641|first_name:2:0|NULL|孙|last_name:2:0|NULL|九军|sex:2:0|NULL|男|score:1:0|NULL|63|
+|mysql-bin.00001723967648|1496736193000|middleware3|student|I|id:1:1|NULL|301642|first_name:2:0|NULL|王|last_name:2:0|NULL|六|sex:2:0|NULL|男|score:1:0|NULL|79|
+|mysql-bin.00001723967649|1496736193000|middleware3|student|I|id:1:1|NULL|301643|first_name:2:0|NULL|赵|last_name:2:0|NULL|四静|sex:2:0|NULL|男|score:1:0|NULL|43|
+|mysql-bin.00001723967650|1496736193000|middleware3|student|I|id:1:1|NULL|301644|first_name:2:0|NULL|柳|last_name:2:0|NULL|天立|sex:2:0|NULL|男|score:1:0|NULL|73|
+|mysql-bin.00001723967651|1496736193000|middleware3|student|I|id:1:1|NULL|301645|first_name:2:0|NULL|孙|last_name:2:0|NULL|九|sex:2:0|NULL|男|score:1:0|NULL|91|
+|mysql-bin.00001723967652|1496736193000|middleware3|student|I|id:1:1|NULL|301646|first_name:2:0|NULL|邹|last_name:2:0|NULL|甜励|sex:2:0|NULL|女|score:1:0|NULL|40|
+|mysql-bin.00001723967653|1496736193000|middleware3|student|I|id:1:1|NULL|301647|first_name:2:0|NULL|阮|last_name:2:0|NULL|俊|sex:2:0|NULL|女|score:1:0|NULL|63|
+|mysql-bin.00001723967654|1496736193000|middleware3|student|I|id:1:1|NULL|301648|first_name:2:0|NULL|钱|last_name:2:0|NULL|八|sex:2:0|NULL|女|score:1:0|NULL|99|
+|mysql-bin.00001723967655|1496736193000|middleware3|student|I|id:1:1|NULL|301649|first_name:2:0|NULL|柳|last_name:2:0|NULL|七甲|sex:2:0|NULL|女|score:1:0|NULL|46|
+|mysql-bin.00001723967656|1496736193000|middleware3|student|I|id:1:1|NULL|301650|first_name:2:0|NULL|李|last_name:2:0|NULL|民八|sex:2:0|NULL|男|score:1:0|NULL|93|
